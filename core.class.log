@@ -1,0 +1,80 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573204185327@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FA530B31B825002BF8',
+    participant: undefined
+  },
+  messageTimestamp: 1686948644,
+  pushName: 'Kameku',
+  broadcast: false,
+  message: Message {
+    conversation: 'kjsahd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'kjsahd',
+  from: '573204185327'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573204185327@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02794528E16A58CA1E9',
+    participant: undefined
+  },
+  messageTimestamp: 1686948649,
+  pushName: 'Kameku',
+  broadcast: false,
+  message: Message {
+    conversation: 'ñlsdjf',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ñlsdjf',
+  from: '573204185327'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573204185327@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03D9C98A78662703E8F',
+    participant: undefined
+  },
+  messageTimestamp: 1686948656,
+  pushName: 'Kameku',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573204185327'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573204185327@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06BE9D34C8F5646B040',
+    participant: undefined
+  },
+  messageTimestamp: 1686948663,
+  pushName: 'Kameku',
+  broadcast: false,
+  message: Message {
+    conversation: 'gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gracias',
+  from: '573204185327'
+}
