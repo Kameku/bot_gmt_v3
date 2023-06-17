@@ -1,24 +1,41 @@
 [
   {
-    "ref": "89dc6a3d-aa8c-4e3c-b69a-ad9617d60a30",
-    "keyword": "e0c8cb9f3c1c922aff8c95a008c90c56",
-    "answer": "kjsahd",
+    "ref": "fb3e8b32-97ff-4c8e-8e81-8ef1eef21f25",
+    "keyword": "151d5b9af586363185813169c7a91f18",
+    "answer": "asdsd",
     "options": {},
     "from": "573204185327",
-    "refSerialize": "e65ef75633df853e7258e87724a0e599"
+    "refSerialize": "d9d474c82bdab758288115175fa0fad1"
   },
   {
-    "ref": "51f0fb41-1ab3-41c0-b98e-542b0a44a8c1",
-    "keyword": "e65ef75633df853e7258e87724a0e599",
-    "answer": "ñlsdjf",
+    "ref": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "keyword": "key_77a6afba-5810-4b47-822b-6d0026f8dc14",
+    "answer": "Se le traslada a un Asesor",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "249386e0ec4a239703a37e400698850a",
+    "from": "573204185327"
+  },
+  {
+    "ref": "71557cad-930b-475e-b84a-8125b4ebb099",
+    "keyword": "249386e0ec4a239703a37e400698850a",
+    "answer": "dfgd",
     "options": {},
     "from": "573204185327",
-    "refSerialize": "0279528eb37ffe5e47f85d67309a9926"
+    "refSerialize": "260e9b7d763f9fe1bdecb3c74bcd1e9a"
   },
   {
-    "ref": "ans_1016ef7a-fa67-4669-aa4f-480252a444d6",
-    "keyword": "key_0ca0a2ff-0521-4fca-8943-12134f8f1bd9",
-    "answer": "🙌 Hola! Bienvenido a GMT transportes logisticos",
+    "ref": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "keyword": "key_77a6afba-5810-4b47-822b-6d0026f8dc14",
+    "answer": "Se le traslada a un Asesor",
     "options": {
       "media": null,
       "buttons": [],
@@ -29,423 +46,21 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "ab7ac16a62e655e0f76aa88428f7056b",
+    "refSerialize": "249386e0ec4a239703a37e400698850a",
     "from": "573204185327"
   },
   {
-    "ref": "ans_9caef5fb-7300-4505-b38b-ce6bd373da93",
-    "keyword": "ans_1016ef7a-fa67-4669-aa4f-480252a444d6",
-    "answer": "Mi nombre es Clara y te voy ayudar con tu solicitud",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "a1e510f5687ced8dd634c57d11a2e545",
-    "from": "573204185327"
-  },
-  {
-    "ref": "ans_19bd5f0a-6929-4a23-8c1a-0f7935c987bd",
-    "keyword": "ans_9caef5fb-7300-4505-b38b-ce6bd373da93",
-    "answer": "Si necesitas ver más info sobre\n👉🏻 1️⃣ 👈🏻. *Verificacion de pagos*\n👉🏻 2️⃣ 👈🏻. *Certificados de Ingresos o Retenciones*\n👉🏻 3️⃣ 👈🏻. *Otra consulta*",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "nested": [
-        {
-          "ref": "key_ee3fe9c1-a236-4dee-a2b8-3b70a9975e4c",
-          "keyword": [
-            "1",
-            "pagos",
-            "quiero saber cuando me pagan",
-            "cuando pagan"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "16abd1eebdca3886c7d5ff4f7961d365"
-        },
-        {
-          "ref": "ans_1689e0ac-dc1b-4394-b4b1-0d4d8b944c72",
-          "keyword": "key_ee3fe9c1-a236-4dee-a2b8-3b70a9975e4c",
-          "answer": "En este link pododras consultar por la placa\nde tu vehiculo el estado de tu pago.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "b4a089b8a1f6a72f88b958a5349c881e"
-        },
-        {
-          "ref": "ans_c79485b7-7432-4819-8fee-b63ecf37a571",
-          "keyword": "ans_1689e0ac-dc1b-4394-b4b1-0d4d8b944c72",
-          "answer": "https://appgmt.com",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "dce1d7b741c2e33a67d621357bb627ca"
-        },
-        {
-          "ref": "ans_137607c1-df5e-44e2-bf31-1f48684a8a1d",
-          "keyword": "ans_c79485b7-7432-4819-8fee-b63ecf37a571",
-          "answer": "Solo debes escribir *la placa de tu vehiculo* \n y dar click en *Consultar*",
-          "options": {
-            "media": "https://app.gmtcarga.com/gmtapp.jpg",
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "22bcd972393bdaba7f7215bebed9cd79"
-        },
-        {
-          "ref": "key_3100f46e-8351-467c-a626-d27ca64122cb",
-          "keyword": [
-            "2",
-            "certificados",
-            "necesito el certificado"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "78c3a675dbcb8605b02380720ea12720"
-        },
-        {
-          "ref": "ans_b0b9037b-0475-4def-b779-604c5e1539b2",
-          "keyword": "key_3100f46e-8351-467c-a626-d27ca64122cb",
-          "answer": "Para obtener el certificados\n de ingresos y retenciones",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "983f20ce3009fb0b3bc43f48fe24f8d8"
-        },
-        {
-          "ref": "ans_64deea12-a4e2-4ed5-9bd7-de97c6032772",
-          "keyword": "ans_b0b9037b-0475-4def-b779-604c5e1539b2",
-          "answer": "Envia una solicitud al correo",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "69dd678969f42c113c5cf1055ff88784"
-        },
-        {
-          "ref": "ans_4dcc0bde-1390-4156-a51b-e68c038b678f",
-          "keyword": "ans_64deea12-a4e2-4ed5-9bd7-de97c6032772",
-          "answer": "*oficina@gmtcarga.com*",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "ec298f34cf584631f56e52dfc5aab075"
-        },
-        {
-          "ref": "ans_e20b4155-6ca5-4b2b-89e4-bd0dbf79461f",
-          "keyword": "ans_4dcc0bde-1390-4156-a51b-e68c038b678f",
-          "answer": "*contabilidad@gmtcarga.com*",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "eb85f8bc911196388eec474d95a4ce1e"
-        },
-        {
-          "ref": "key_acc47621-8827-44c2-90cc-3ceb58bac409",
-          "keyword": [
-            "3",
-            "asesor"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "760f76f91876355e2bac7d734b6251c1"
-        },
-        {
-          "ref": "ans_763bb4ca-5906-4ec8-802a-c56de567130d",
-          "keyword": "key_acc47621-8827-44c2-90cc-3ceb58bac409",
-          "answer": "Entiendo en breve un asesor te dara respuesta",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "899a263d04f69abe076f8a7616e6f054"
-        },
-        {
-          "ref": "ans_947c37e1-8860-4ef0-9804-38b281918a6c",
-          "keyword": "ans_763bb4ca-5906-4ec8-802a-c56de567130d",
-          "answer": "O recuerda nuestras opciones de consulta\n👉🏻 1️⃣ 👈🏻. *Verificacion de pagos*\n👉🏻 2️⃣ 👈🏻. *Certificados de Ingresos o Retenciones*",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "nested": [
-              {
-                "ref": "key_ee3fe9c1-a236-4dee-a2b8-3b70a9975e4c",
-                "keyword": [
-                  "1",
-                  "pagos",
-                  "quiero saber cuando me pagan",
-                  "cuando pagan"
-                ],
-                "options": {
-                  "sensitive": false,
-                  "regex": false
-                },
-                "refSerialize": "16abd1eebdca3886c7d5ff4f7961d365"
-              },
-              {
-                "ref": "ans_1689e0ac-dc1b-4394-b4b1-0d4d8b944c72",
-                "keyword": "key_ee3fe9c1-a236-4dee-a2b8-3b70a9975e4c",
-                "answer": "En este link pododras consultar por la placa\nde tu vehiculo el estado de tu pago.",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "b4a089b8a1f6a72f88b958a5349c881e"
-              },
-              {
-                "ref": "ans_c79485b7-7432-4819-8fee-b63ecf37a571",
-                "keyword": "ans_1689e0ac-dc1b-4394-b4b1-0d4d8b944c72",
-                "answer": "https://appgmt.com",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "dce1d7b741c2e33a67d621357bb627ca"
-              },
-              {
-                "ref": "ans_137607c1-df5e-44e2-bf31-1f48684a8a1d",
-                "keyword": "ans_c79485b7-7432-4819-8fee-b63ecf37a571",
-                "answer": "Solo debes escribir *la placa de tu vehiculo* \n y dar click en *Consultar*",
-                "options": {
-                  "media": "https://app.gmtcarga.com/gmtapp.jpg",
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "22bcd972393bdaba7f7215bebed9cd79"
-              },
-              {
-                "ref": "key_3100f46e-8351-467c-a626-d27ca64122cb",
-                "keyword": [
-                  "2",
-                  "certificados",
-                  "necesito el certificado"
-                ],
-                "options": {
-                  "sensitive": false,
-                  "regex": false
-                },
-                "refSerialize": "78c3a675dbcb8605b02380720ea12720"
-              },
-              {
-                "ref": "ans_b0b9037b-0475-4def-b779-604c5e1539b2",
-                "keyword": "key_3100f46e-8351-467c-a626-d27ca64122cb",
-                "answer": "Para obtener el certificados\n de ingresos y retenciones",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "983f20ce3009fb0b3bc43f48fe24f8d8"
-              },
-              {
-                "ref": "ans_64deea12-a4e2-4ed5-9bd7-de97c6032772",
-                "keyword": "ans_b0b9037b-0475-4def-b779-604c5e1539b2",
-                "answer": "Envia una solicitud al correo",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "69dd678969f42c113c5cf1055ff88784"
-              },
-              {
-                "ref": "ans_4dcc0bde-1390-4156-a51b-e68c038b678f",
-                "keyword": "ans_64deea12-a4e2-4ed5-9bd7-de97c6032772",
-                "answer": "*oficina@gmtcarga.com*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "ec298f34cf584631f56e52dfc5aab075"
-              },
-              {
-                "ref": "ans_e20b4155-6ca5-4b2b-89e4-bd0dbf79461f",
-                "keyword": "ans_4dcc0bde-1390-4156-a51b-e68c038b678f",
-                "answer": "*contabilidad@gmtcarga.com*",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "eb85f8bc911196388eec474d95a4ce1e"
-              }
-            ],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "6fe48204670daa7a2152ec33940a9225"
-        },
-        {
-          "ref": "ans_8c4421d4-4bdf-4e02-a4b5-223544dcbf9f",
-          "keyword": "ans_947c37e1-8860-4ef0-9804-38b281918a6c",
-          "answer": "*Gracias, por favor espera....*",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": true,
-            "child": null,
-            "delay": 0,
-            "nested": [],
-            "keyword": {},
-            "callback": true
-          },
-          "refSerialize": "16002e7ebc7de9b8c8b1e0abc3930b1d"
-        },
-        {
-          "ref": "key_8cdb80e2-371d-4a8c-82eb-83a4f9f01b3c",
-          "keyword": [
-            "ok",
-            "gracias"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "335203ce7c7cb535d74293aa3c291e34"
-        },
-        {
-          "ref": "ans_7eaa1976-d11b-4335-9967-26b98b367b28",
-          "keyword": "key_8cdb80e2-371d-4a8c-82eb-83a4f9f01b3c",
-          "answer": "Un agusto ayudarte, Buen dia",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "54376f10a78b0e9fed787371dd5332ad"
-        }
-      ],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "3ef7d76422934122b45875a051505ebb",
-    "from": "573204185327"
-  },
-  {
-    "ref": "7ae85b7f-d7d7-4700-b301-9036802cf794",
-    "keyword": "3ef7d76422934122b45875a051505ebb",
-    "answer": "1",
+    "ref": "bf231846-7e20-47f9-91e3-3a5a1e2c7391",
+    "keyword": "249386e0ec4a239703a37e400698850a",
+    "answer": "shfd",
     "options": {},
     "from": "573204185327",
-    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+    "refSerialize": "1ecddcfd2527d42253b758477e6e9683"
   },
   {
-    "ref": "ans_1689e0ac-dc1b-4394-b4b1-0d4d8b944c72",
-    "keyword": "key_ee3fe9c1-a236-4dee-a2b8-3b70a9975e4c",
-    "answer": "En este link pododras consultar por la placa\nde tu vehiculo el estado de tu pago.",
+    "ref": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "keyword": "key_77a6afba-5810-4b47-822b-6d0026f8dc14",
+    "answer": "Se le traslada a un Asesor",
     "options": {
       "media": null,
       "buttons": [],
@@ -456,55 +71,21 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "b4a089b8a1f6a72f88b958a5349c881e",
+    "refSerialize": "249386e0ec4a239703a37e400698850a",
     "from": "573204185327"
   },
   {
-    "ref": "ans_c79485b7-7432-4819-8fee-b63ecf37a571",
-    "keyword": "ans_1689e0ac-dc1b-4394-b4b1-0d4d8b944c72",
-    "answer": "https://appgmt.com",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "dce1d7b741c2e33a67d621357bb627ca",
-    "from": "573204185327"
-  },
-  {
-    "ref": "ans_137607c1-df5e-44e2-bf31-1f48684a8a1d",
-    "keyword": "ans_c79485b7-7432-4819-8fee-b63ecf37a571",
-    "answer": "Solo debes escribir *la placa de tu vehiculo* \n y dar click en *Consultar*",
-    "options": {
-      "media": "https://app.gmtcarga.com/gmtapp.jpg",
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "22bcd972393bdaba7f7215bebed9cd79",
-    "from": "573204185327"
-  },
-  {
-    "ref": "1859e3bc-8248-43aa-ab60-cd279eacb485",
-    "keyword": "22bcd972393bdaba7f7215bebed9cd79",
-    "answer": "gracias",
+    "ref": "7b922ce0-1275-4e88-a23a-6a230ab77936",
+    "keyword": "249386e0ec4a239703a37e400698850a",
+    "answer": "dfh",
     "options": {},
     "from": "573204185327",
-    "refSerialize": "81fcae8cb1a09948a92c591b527233ce"
+    "refSerialize": "4a5594a9e766f16e1c7aa2189ec47810"
   },
   {
-    "ref": "ans_7eaa1976-d11b-4335-9967-26b98b367b28",
-    "keyword": "key_8cdb80e2-371d-4a8c-82eb-83a4f9f01b3c",
-    "answer": "Un agusto ayudarte, Buen dia",
+    "ref": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "keyword": "key_77a6afba-5810-4b47-822b-6d0026f8dc14",
+    "answer": "Se le traslada a un Asesor",
     "options": {
       "media": null,
       "buttons": [],
@@ -515,7 +96,285 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "b367582a212775c44e24ee857a5ebe07",
+    "refSerialize": "249386e0ec4a239703a37e400698850a",
+    "from": "573204185327"
+  },
+  {
+    "ref": "b3e900ec-168c-4e7b-8235-6156e79ac314",
+    "keyword": "249386e0ec4a239703a37e400698850a",
+    "answer": "dlkfsdf",
+    "options": {},
+    "from": "573204185327",
+    "refSerialize": "839681ccba336cb97d6f6743ed77da7b"
+  },
+  {
+    "ref": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "keyword": "key_77a6afba-5810-4b47-822b-6d0026f8dc14",
+    "answer": "Se le traslada a un Asesor",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "249386e0ec4a239703a37e400698850a",
+    "from": "573204185327"
+  },
+  {
+    "ref": "dd020fa0-0cc3-48a7-9f48-39a570e30be9",
+    "keyword": "249386e0ec4a239703a37e400698850a",
+    "answer": "dfhksd",
+    "options": {},
+    "from": "573204185327",
+    "refSerialize": "921ba9f9db1050fc6b42fde2b8f756ae"
+  },
+  {
+    "ref": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "keyword": "key_77a6afba-5810-4b47-822b-6d0026f8dc14",
+    "answer": "Se le traslada a un Asesor",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "249386e0ec4a239703a37e400698850a",
+    "from": "573204185327"
+  },
+  {
+    "ref": "06b92b53-70c9-4622-af79-55c5cba6aba6",
+    "keyword": "249386e0ec4a239703a37e400698850a",
+    "answer": "fjhdf",
+    "options": {},
+    "from": "573204185327",
+    "refSerialize": "727d4bcb0fb512810c07b3422999400e"
+  },
+  {
+    "ref": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "keyword": "key_77a6afba-5810-4b47-822b-6d0026f8dc14",
+    "answer": "Se le traslada a un Asesor",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "249386e0ec4a239703a37e400698850a",
+    "from": "573204185327"
+  },
+  {
+    "ref": "703b5d46-3ecb-4580-a174-580b1bdb771c",
+    "keyword": "249386e0ec4a239703a37e400698850a",
+    "answer": "jkshdf",
+    "options": {},
+    "from": "573204185327",
+    "refSerialize": "fc2a2f0ba2bf5d942d54c0e39af4586f"
+  },
+  {
+    "ref": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "keyword": "key_77a6afba-5810-4b47-822b-6d0026f8dc14",
+    "answer": "Se le traslada a un Asesor",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "249386e0ec4a239703a37e400698850a",
+    "from": "573204185327"
+  },
+  {
+    "ref": "9ce164d7-e8fb-496b-b3fb-d54d0c1ba8fa",
+    "keyword": "249386e0ec4a239703a37e400698850a",
+    "answer": "kdshfd",
+    "options": {},
+    "from": "573204185327",
+    "refSerialize": "d0118baca9848f4e03c812ed3a079569"
+  },
+  {
+    "ref": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "keyword": "key_77a6afba-5810-4b47-822b-6d0026f8dc14",
+    "answer": "Se le traslada a un Asesor",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "249386e0ec4a239703a37e400698850a",
+    "from": "573204185327"
+  },
+  {
+    "ref": "ans_85a5c91e-b1d0-444e-82e8-9cb5dad8a797",
+    "keyword": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "answer": "Lo estamos comunicando......",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 60000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "03b0f7344c904a2a1dd6a09b6fb55637",
+    "from": "573204185327"
+  },
+  {
+    "ref": "ans_85a5c91e-b1d0-444e-82e8-9cb5dad8a797",
+    "keyword": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "answer": "Lo estamos comunicando......",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 60000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "03b0f7344c904a2a1dd6a09b6fb55637",
+    "from": "573204185327"
+  },
+  {
+    "ref": "ans_85a5c91e-b1d0-444e-82e8-9cb5dad8a797",
+    "keyword": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "answer": "Lo estamos comunicando......",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 60000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "03b0f7344c904a2a1dd6a09b6fb55637",
+    "from": "573204185327"
+  },
+  {
+    "ref": "ans_85a5c91e-b1d0-444e-82e8-9cb5dad8a797",
+    "keyword": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "answer": "Lo estamos comunicando......",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 60000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "03b0f7344c904a2a1dd6a09b6fb55637",
+    "from": "573204185327"
+  },
+  {
+    "ref": "ans_85a5c91e-b1d0-444e-82e8-9cb5dad8a797",
+    "keyword": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "answer": "Lo estamos comunicando......",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 60000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "03b0f7344c904a2a1dd6a09b6fb55637",
+    "from": "573204185327"
+  },
+  {
+    "ref": "ans_85a5c91e-b1d0-444e-82e8-9cb5dad8a797",
+    "keyword": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "answer": "Lo estamos comunicando......",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 60000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "03b0f7344c904a2a1dd6a09b6fb55637",
+    "from": "573204185327"
+  },
+  {
+    "ref": "ans_85a5c91e-b1d0-444e-82e8-9cb5dad8a797",
+    "keyword": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "answer": "Lo estamos comunicando......",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 60000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "03b0f7344c904a2a1dd6a09b6fb55637",
+    "from": "573204185327"
+  },
+  {
+    "ref": "ans_85a5c91e-b1d0-444e-82e8-9cb5dad8a797",
+    "keyword": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "answer": "Lo estamos comunicando......",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 60000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "03b0f7344c904a2a1dd6a09b6fb55637",
+    "from": "573204185327"
+  },
+  {
+    "ref": "ans_85a5c91e-b1d0-444e-82e8-9cb5dad8a797",
+    "keyword": "ans_36d49b2a-30a6-4a78-acb0-68923384dd20",
+    "answer": "Lo estamos comunicando......",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 60000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "03b0f7344c904a2a1dd6a09b6fb55637",
     "from": "573204185327"
   }
 ]

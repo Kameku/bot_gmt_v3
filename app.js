@@ -43,9 +43,7 @@ const flowOther = addKeyword(['3', 'asesor'])
         }
     })
 
-
-
-const flowPrincipal = addKeyword(EVENTS.WELCOME)
+const flowPrincipal = addKeyword(['hola','Hola ','hola ','Hola','buenos dias', 'buenas tardes', 'ole', 'alo'])
     .addAnswer('🙌 Hola! Bienvenido a GMT transportes logisticos')
     .addAnswer("Mi nombre es Clara y te voy ayudar con tu solicitud",)
     .addAnswer(
@@ -57,14 +55,12 @@ const flowPrincipal = addKeyword(EVENTS.WELCOME)
         ],
         null,
         null,
-        [flowVerifyPay, flowCertificados, flowOther, flowThanks]
+        [flowVerifyPay, flowCertificados, flowOther]
     )
-
-
 
 const main = async () => {
     const adapterDB = new JsonFileAdapter()
-    const adapterFlow = createFlow([flowPrincipal, flowThanks])
+    const adapterFlow = createFlow([flowPrincipal])
     const adapterProvider = createProvider(BaileysProvider)
 
     createBot({
