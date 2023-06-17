@@ -60,7 +60,7 @@ const flowPrincipal = addKeyword(['hola','Hola ','hola ','Hola','buenos dias', '
 
 const main = async () => {
     const adapterDB = new JsonFileAdapter()
-    const adapterFlow = createFlow([flowPrincipal])
+    const adapterFlow = createFlow([flowPrincipal , flowThanks])
     const adapterProvider = createProvider(BaileysProvider)
 
     createBot({
